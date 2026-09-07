@@ -24,44 +24,58 @@
 ---
 
 ## 🔬 The AIDM Vision
-I am an undergraduate specializing in **Artificial Intelligence, Data Science, and Medical Engineering (AIDM)** at Amrita Vishwa Vidyapeetham. My engineering philosophy revolves around building robust, scalable Machine Learning pipelines and applying Deep Learning architectures to solve complex clinical and biomaterial challenges.
+I am an undergraduate specializing in **Artificial Intelligence, Data Science, and Medical Engineering (AIDM)** at Amrita Vishwa Vidyapeetham. My engineering philosophy revolves around building robust, scalable Machine Learning pipelines and applying Deep Learning architectures to solve complex clinical, biomaterial, and deep-space challenges.
 
 ---
 
-## 🚀 Core Engineering & Clinical AI Projects
+## 🚀 High-Impact Research & AI Architectures
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🧠 Alzheimer's Detection via EEG</h3>
-      <p><b>End-to-End Deep Learning & ML Pipeline</b></p>
-      <p>Engineered an advanced ML pipeline featuring epoch segmentation, artifact rejection, and multi-class classification to predict early-stage Alzheimer's from raw multichannel electrophysiological data.</p>
-      <p><i>Stack: Keras, TensorFlow, scikit-learn, MNE, Python</i></p>
+      <h3>🧠 NeuroVision Diagnostics</h3>
+      <p><b>Attention-Gated ResNet-34 & Multi-Modal Radiomics</b></p>
+      <p>Engineered an integrated web suite for reliable brain tumor diagnostics and epistemic uncertainty interception using deep learning architectures.</p>
+      <p><i>Stack: ResNet-34, Radiomics, Web Deployment</i></p>
     </td>
     <td width="50%">
-      <h3>🤖 AI-Powered Brain-Computer Interface</h3>
-      <p><b>EEG-Controlled Atlas Humanoid Robot</b></p>
-      <p>Developed an ML-driven BCI controlling 15 distinct finger poses on a humanoid robot using real-time C3/C4 EEG signals. Implemented Hjorth parameters, PSD extraction, and kNN classification.</p>
-      <p><i>Stack: Machine Learning, MATLAB, Signal Processing</i></p>
+      <h3>🧬 KR-GT V18 Framework</h3>
+      <p><b>Deep Learning for Gene Regulatory Networks</b></p>
+      <p>Developed a hybrid Deep Learning framework for gene regulatory network inference, integrated directly with Murburn senescence modeling.</p>
+      <p><i>Stack: Hybrid DL, Bioinformatics, Systems Biology</i></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🧬 Generative AI for Biomaterials</h3>
-      <p><b>Synthetic Data Generation for Implants</b></p>
-      <p>Leveraged generative modeling to produce a robust dataset of 5,444 SEM images, investigating the recrystallization kinetics of metal crystals for biocompatible applications.</p>
-      <p><i>Stack: Python, MATLAB, Generative Modeling</i></p>
+      <h3>🌌 ChondroZero-G</h3>
+      <p><b>Federated Digital Twin for Deep-Space</b></p>
+      <p>Designed an autonomous federated digital twin for predictive cartilage degradation modeling, specifically targeting deep-space environments.</p>
+      <p><i>Stack: Federated Learning, Digital Twins, AI</i></p>
     </td>
     <td width="50%">
-      <h3>⚡ Bio-Sync AI Smart Patch</h3>
-      <p><b>Autonomous Sensor Fusion System</b></p>
-      <p>Designed an AI-driven feedback loop and sensor fusion framework for a wearable smart patch capable of real-time blood-glucose monitoring and regulation.</p>
-      <p><i>Stack: AI, Edge ML, Sensor Fusion</i></p>
+      <h3>🫁 Histopathological Analysis</h3>
+      <p><b>Vision Transformers & LSTMs for Oncology</b></p>
+      <p>Built an end-to-end ML pipeline integrating Vision Transformers and LSTMs for predictive lung cancer diagnostics from histopathology data.</p>
+      <p><i>Stack: ViT, LSTM, PyTorch, Computer Vision</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚡ BioSync-AI Smart Patch</h3>
+      <p><b>Autonomous Bioelectronic Wearable</b></p>
+      <p>Created an agentic AI-driven wearable patch for real-time therapeutic intervention, predictive health management, and continuous sensor fusion.</p>
+      <p><i>Stack: Agentic AI, Edge ML, Sensor Fusion</i></p>
+    </td>
+    <td width="50%">
+      <h3>🌱 CADENCE Network</h3>
+      <p><b>Causal Agentic Decision Networks</b></p>
+      <p>Utilized explicit counterfactuals and depth-guided multi-modal fusion for smallholder crop disease diagnosis using Explainable AI.</p>
+      <p><i>Stack: Causal AI, Explainable AI (XAI), Fusion</i></p>
     </td>
   </tr>
 </table>
 
-**📖 Featured Publication:** Authored a 32-figure multiscale computational neuroscience study on *Neuro-Electromagnetic Remodeling*, proposing Murburn DROS as a universal neuro-modulator.
+**📖 Additional Publication Work:** Authored multiscale computational neuroscience studies proposing *Murburn DROS* as a universal neuro-modulator and *Titan-Net* Physics-Informed Graph Transformers for stochastic maintenance.
 
 ---
 
