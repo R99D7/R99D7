@@ -1,10 +1,10 @@
 <div align="center">
   
-# 🧠 Muthuraman Ramanathan
-### *Architecting the Future of Healthcare through Artificial Intelligence* 🧬
+# 🇫🇷 Muthuraman Ramanathan
+### *Passionate Seeker of the French Language | Deep Learning & AI Researcher* 🧬
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00e5ff&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%7C+Data+Science+%7C+Medical+Engineering+(AIDM);Brain-Computer+Interfaces+%26+Computational+Neuroscience;Predictive+Machine+Learning+for+Clinical+Diagnostics;Building+Next-Generation+Biomaterials+%26+Smart+Wearables" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00e5ff&center=true&vCenter=true&width=750&lines=Passionate+Seeker+of+the+French+Language+(DELF+A2);Deep+Learning+%26+Machine+Learning+Architect;Building+Intelligent+Medical+%26+Bioinformatics+Systems" alt="Typing SVG" />
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=R99D7&label=Profile%20Views&color=00e5ff&style=for-the-badge)](https://github.com/R99D7)
@@ -19,42 +19,40 @@
 
 ---
 
-## 🔬 The AIDM Vision 
-> **"Bridging silicon and biology to solve complex medical challenges."**
-
-I am an undergraduate specializing in **Artificial Intelligence, Data Science, and Medical Engineering (AIDM)** at Amrita Vishwa Vidyapeetham. My work lives at the absolute frontier of technology and healthcare. From modelling the electrophysiology of the human brain to generating synthetic datasets for biocompatible implants, I build intelligent systems that matter.
+## 👨‍💻 About Me
+I am a passionate seeker of the French language (DELF A2 Certified, actively preparing for B1), seamlessly blending my linguistic dedication with my work as a computational researcher. On the technical front, I focus heavily on **Deep Learning, Machine Learning, and Artificial Intelligence**, architecting predictive models and intelligent systems that solve complex, real-world problems.
 
 ---
 
-## 🚀 Featured Engineering & Clinical Projects
+## 🚀 Deep Learning, AI & Clinical Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🧠 Brain-Computer Interface (BCI)</h3>
-      <p><b>EEG-Controlled Atlas Humanoid Robot</b></p>
-      <p>Engineered a BCI controlling 15 distinct finger poses on a humanoid robot using real-time EEG (C3/C4) signals. Implemented Hjorth parameters, PSD extraction, and kNN classification.</p>
-      <p><i>Tech: MATLAB, Python, Signal Processing</i></p>
+      <h3>🧠 Deep Learning for Alzheimer's Detection</h3>
+      <p><b>End-to-End ML Pipeline via EEG Analytics</b></p>
+      <p>Engineered an advanced Machine Learning pipeline featuring epoch segmentation, artifact rejection, and multi-class classification to predict early-stage Alzheimer's from raw multichannel electrophysiological data.</p>
+      <p><i>Tech: Keras, TensorFlow, scikit-learn, MNE, Python</i></p>
     </td>
     <td width="50%">
-      <h3>🩺 Alzheimer's Detection Pipeline</h3>
-      <p><b>Early Prediction via EEG Analytics</b></p>
-      <p>Built an end-to-end Machine Learning pipeline featuring epoch segmentation, artifact rejection, and multi-class classification from raw multichannel electrophysiological data.</p>
-      <p><i>Tech: Python, MNE, scikit-learn, NumPy</i></p>
+      <h3>🧬 Generative AI for Biomaterials</h3>
+      <p><b>Synthetic Data Generation for Implants</b></p>
+      <p>Leveraged generative modeling techniques to produce a robust dataset of 5,444 SEM images, investigating the recrystallization kinetics of metal crystals for biocompatible applications.</p>
+      <p><i>Tech: Python, MATLAB, Deep Generative Models</i></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>⚡ Bio-Sync AI Smart Patch</h3>
-      <p><b>Autonomous Blood-Glucose Regulation</b></p>
-      <p>Designed the conceptual framework and AI-driven feedback loop for a wearable smart patch capable of real-time monitoring and drug delivery (AI Verse Hackathon).</p>
-      <p><i>Tech: AI, Sensor Fusion, Wearable Tech</i></p>
+      <h3>🤖 AI-Powered Brain-Computer Interface</h3>
+      <p><b>EEG-Controlled Atlas Humanoid Robot</b></p>
+      <p>Developed an ML-driven BCI capable of controlling 15 distinct finger poses on a humanoid robot using real-time C3/C4 EEG signals. Implemented Hjorth parameters, PSD extraction, and kNN classification.</p>
+      <p><i>Tech: Machine Learning, MATLAB, Signal Processing</i></p>
     </td>
     <td width="50%">
-      <h3>🧬 Biomaterials Kinetics Analysis</h3>
-      <p><b>Synthetic Data Generation for Implants</b></p>
-      <p>Generated a robust dataset of 5,444 SEM images to investigate the recrystallization kinetics of metal crystals, optimizing materials for biocompatible hip implants.</p>
-      <p><i>Tech: Python, MATLAB, Generative Modeling</i></p>
+      <h3>⚡ Bio-Sync AI Smart Patch</h3>
+      <p><b>Autonomous Sensor Fusion System</b></p>
+      <p>Designed an AI-driven feedback loop and sensor fusion framework for a wearable smart patch capable of real-time blood-glucose monitoring and regulation (AI Verse Hackathon).</p>
+      <p><i>Tech: AI, Sensor Fusion, Edge ML</i></p>
     </td>
   </tr>
 </table>
@@ -63,28 +61,31 @@ I am an undergraduate specializing in **Artificial Intelligence, Data Science, a
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Cutting-Edge Tech Arsenal
 
 <div align="center">
   
-**Core Languages** <br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,matlab,r,dart,flutter" alt="Languages" />
-</a>
+**Deep Learning & Machine Learning** <br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 
-**Data Science, AI & Medical Compute** <br>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/MNE_Python-181717?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bioinformatics-00e5ff?style=for-the-badge&logo=dna&logoColor=black" />
+**Biomedical, Data Science & Core Languages** <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/Bioinformatics-00e5ff?style=for-the-badge&logo=dna&logoColor=black" alt="Bioinformatics" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
 
-**Web, Databases & Deployment** <br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,vercel,github" alt="Web and DB" />
-</a>
-<br>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+**Deployment, Cloud & Web** <br>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
 </div>
 
@@ -95,9 +96,4 @@ I am an undergraduate specializing in **Artificial Intelligence, Data Science, a
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R99D7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Muthu Raman's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=R99D7&theme=tokyonight&hide_border=true&background=0D1117" alt="Muthu Raman's GitHub Streak" />
-</div>
-
----
-<div align="center">
-  <i>Beyond engineering, I am a passionate enthusiast of the French language (DELF A2 Certified, preparing for B1), an avid chess player, and a writer of original poetry.</i>
 </div>
