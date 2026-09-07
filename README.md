@@ -17,7 +17,7 @@
   <a href="https://scholar.google.com/citations?user=iUPBhG4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10415696"><img src="https://img.shields.io/badge/SSRN-003366?style=for-the-badge&logo=elsevier&logoColor=white" alt="SSRN" /></a>
   <a href="https://orcid.org/my-orcid?orcid=0009-0004-2634-1476"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://www.linkedin.com/in/muthuraman-ramanathan-9011153bb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/muthuraman-ramanathan-9011153bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 </div>
 
@@ -134,4 +134,14 @@ I am an undergraduate specializing in **Artificial Intelligence, Data Science, a
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R99D7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Muthu Raman's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=R99D7&theme=tokyonight&hide_border=true&background=0D1117" alt="Muthu Raman's GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R99D7/R99D7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R99D7/R99D7/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/R99D7/R99D7/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
