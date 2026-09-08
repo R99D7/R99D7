@@ -129,10 +129,26 @@ I am an undergraduate specializing in **Artificial Intelligence, Data Science, a
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=R99D7&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" alt="R99D7 Trophies" />
+  </a>
+</div>
+
+---
+
 ## 📈 GitHub Impact
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R99D7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Muthu Raman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R99D7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=R99D7&theme=tokyonight&hide_border=true&background=0D1117" alt="Muthu Raman's GitHub Streak" />
 </div>
 
